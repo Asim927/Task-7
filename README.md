@@ -39,12 +39,5 @@ To build a Logistic Regression model to predict passenger survival on the Titani
 ## Final Outcome
 This project demonstrates binary classification using Logistic Regression and proper model evaluation techniques.
 
-## Interview Questions Covered
-- Why Logistic Regression is used for classification?
-- What is precision and recall?
-- What is ROC curve?
-- What does AUC mean?
-- What is confusion matrix?
-
 ## Author
 Asim
